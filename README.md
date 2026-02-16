@@ -1,4 +1,4 @@
-# Copyright learnergames.github.io
+# Copyright learner.games
 
 Copyright:
 It is illegal to copy, distribute or modify websites, software, programs, applications, codes, assets, repositories, or any other files of Learner Games.
