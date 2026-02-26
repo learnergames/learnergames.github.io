@@ -1,58 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://learnergames.github.io/</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/index.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/website-privacy-policy.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/website-terms-of-use.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/about.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/spellsniper/spellsniper.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/copyright-notice.html</loc>
-	<lastmod>2025-05-04T21:25:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/website-privacy-policy</loc>
-	<lastmod>2025-05-04T21:25:58+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/spellsniper/spellsniper-privacy-policy.html</loc>
-	<lastmod>2025-05-04T21:25:59+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/spellsniper/spellsniper-terms-of-use.html</loc>
-	<lastmod>2025-05-04T21:25:59+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://learnergames.github.io/sitemap.xml</loc>
-	<lastmod>2025-05-04T21:25:59+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://learnergames.github.io/</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/start-stop-timer/start-stop-timer.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/about.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/website-privacy-policy.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/website-terms-of-use.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/copyright-notice.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/start-stop-timer/start-stop-timer-privacy-policy.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://learnergames.github.io/start-stop-timer/start-stop-timer-terms-of-use.html</loc>
+    <lastmod>2026-02-26T12:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
